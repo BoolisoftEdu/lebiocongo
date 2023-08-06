@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069720598113",
+    "project_id": "leclair-72097",
+    "storage_bucket": "leclair-72097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069720598113:android:b529728296d224bec29c20",
+        "android_client_info": {
+          "package_name": "com.boolisoft.france"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069720598113-13l62ubenoo121n0up86jv365o741kgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYA37SvQJT5lWSG1sP5Y6wMmmx7n3w-Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069720598113-13l62ubenoo121n0up86jv365o741kgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
